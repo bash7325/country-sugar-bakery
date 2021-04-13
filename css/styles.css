@@ -25,13 +25,10 @@
   margin-top: 50px;
 }
 
-#tasty-fruits-section {
-  background-image: url(https://technext.github.io/tropika/images/tasty-image.png);
-  background-repeat: no-repeat;
-  height: 400px;
-  align-items: center;
-  justify-content: center;
-  display: flex;
+#main-header {
+  background-image: url(/images/counter.jpg);
+  background-size: cover;
+  height: 600px;
   margin-top: 50px;
   margin-bottom: 50px;
 }
