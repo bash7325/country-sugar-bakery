@@ -14,7 +14,7 @@
 }
 
 #main-header {
-  background-image: url(/images/counter.jpg);
+  background-image: url(../images/counter.jpg);
   background-size: cover;
   height: 600px;
   margin-top: 50px;
