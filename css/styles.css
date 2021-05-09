@@ -1,3 +1,11 @@
+body {
+  font-family: 'Amatic SC', cursive;
+}
+
+.navbar-brand {
+  background-image: url(../images/logoPNG.png)
+}
+
 .navbar-item {
   padding-right: 40px !important;
   font-size: large !important;
@@ -14,15 +22,16 @@
 }
 
 #main-header {
-  background-image: url(../images/counter.jpg);
+  background-image: url(../images/duo.jpg);
   background-size: cover;
-  height: 600px;
+  background-position: fixed;
+  height: 800px;
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
 .is-white-text-title {
-  color: white !important;
+  color: rgb(26, 19, 19);
   text-transform: uppercase;
 }
 
@@ -82,4 +91,8 @@ hr {
 
 .navbar {
   background-color: #F7F7F7;
+}
+
+h1 {
+  font-size: 150px;
 }
